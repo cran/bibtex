@@ -1,10 +1,10 @@
 Package: bibtex
 Type: Package
 Title: bibtex parser
-Version: 0.3-0
-Date: 2011-11-16
-Author: Romain Francois
-Maintainer: ORPHANED
+Version: 0.3-2
+Date: 2012-09-13
+Author: Romain Francois <romain@r-enthusiasts.com>
+Maintainer: Kurt Hornik <Kurt.Hornik@R-project.org>
 Description: Utility to parse a bibtex file
 License: GPL (>= 2)
 LazyLoad: yes
@@ -13,10 +13,6 @@ BugReports:
 URL: http://r-forge.r-project.org/projects/highlight/,
         http://romainfrancois.blog.free.fr/index.php?category/R-package/bibtex
 Depends: R (>= 2.13.0)
-Packaged: 2011-11-17 08:58:09 UTC; romain
+Packaged: 2012-09-13 07:47:23 UTC; hornik
 Repository: CRAN
-Date/Publication: 2011-11-17 09:32:48
-X-CRAN-Original-Package: bibtex
-X-CRAN-Original-Maintainer: Romain Francois <romain@r-enthusiasts.com>
-X-CRAN-Comment: Orphaned on 2012-07-18 as the orginal maintainer,
-        Romain Francois <romain@r-enthusiasts.com>, is unrespsonsive.
+Date/Publication: 2012-09-13 08:01:46

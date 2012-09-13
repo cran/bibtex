@@ -29,7 +29,7 @@ int		yywrap(void);
 
 #if defined(FLEX_SCANNER)
 #define input		yyinput
-#define output		putchar
+#define output(c)	Rprintf("%c", c)
 
 #if !defined(HAVE_FILENO)
 #define YY_NEVER_INTERACTIVE 1	/* suppresses need for isatty() and fileno() */
@@ -90,6 +90,8 @@ typedef struct yyltype{
 # define YYLTYPE yyltype
 YYLTYPE last_at_location ;
 
+#define YY_FATAL_ERROR(msg) \
+    Rf_error("lex fatal error:\n%s\n", msg);
 
 #endif
 
