@@ -1,4 +1,4 @@
-346bf5a486cb38c528c72e8d81bbc22a *DESCRIPTION
+35d5afbfb59ab38b7d8372b1891c5f5d *DESCRIPTION
 9d416fd2e02f86754c076d666f446f99 *NAMESPACE
 e51d06a265ddd5bd5bb90eeba6db02d1 *R/bibtex.R
 8533def0c680b458ba3bc9e8cc845b92 *README.md
@@ -20,14 +20,14 @@ f8f68566461d5c0c0b3d78be4fc2a380 *inst/bib/stats4.bib
 273e0b4310366a2307f3effad757abe0 *inst/grammar/biblex.l
 3cb693f6049c2c9cea4c84aff24e2458 *inst/grammar/bibparse.y
 5e48f14f9f8078c8df6c03b619b715f7 *inst/include/bibparse.h
-3b3531102b4d4beaaed1246f617908ba *inst/include/bibtex.h
+dcde8edcd23db274a47f38cd91cd98e1 *inst/include/bibtex.h
 1d7ceaeb12fd126f254d5cbe4b426579 *inst/objects.output
 849dec3ea96ed59385b3bd00aff5a7da *man/do_read_bib.Rd
 f43567610799d5b8159f750dc334b127 *man/read.bib.Rd
-ee2b17603046959bd45b544f7d65e72c *man/write.bib.Rd
+18f34f74561260d0bd9356f1a2fbb8db *man/write.bib.Rd
 1a315aa73f3882ca3d110365f272fbc0 *src/Makevars
-29fd36af5ac537bb91883cd9661af8d9 *src/biblex.c
-daa19aa3c7fa8b2a42f3f6c65401fd23 *src/bibparse.c
+c5c3f46e3dadb7b9d56c62818630cb79 *src/biblex.c
+934121bf218cfbec4d84da6d68c59189 *src/bibparse.c
 01b8caf2eb7c4f177f3ba02be7dd1665 *src/init.c
 cdc573bb0873053f7658e8d06a516e22 *src/stretchyList.c
 078b1afc8cc00f041bfe9ba3cafb0ff7 *tests/testthat.R
