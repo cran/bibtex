@@ -1,5 +1,5 @@
 Package: bibtex
-Version: 0.5.0
+Version: 0.5.1
 Title: Bibtex Parser
 Authors@R: c(
     person(given = "Romain", 
@@ -53,10 +53,10 @@ Imports: backports (>= 1.4.0), utils
 Suggests: testthat (>= 3.0.0)
 LazyLoad: yes
 Encoding: UTF-8
-RoxygenNote: 7.2.1
+RoxygenNote: 7.2.3
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2022-09-23 03:30:16 UTC; ronin
+Packaged: 2023-01-26 07:29:30 UTC; ronin
 Author: Romain Francois [aut, cph] (<https://orcid.org/0000-0002-2444-4226>,
     principal developer of bibtex R package),
   James Joseph Balamuta [ctb, cre]
@@ -69,4 +69,4 @@ Author: Romain Francois [aut, cph] (<https://orcid.org/0000-0002-2444-4226>,
   Mathew W. McLean [ctb] (<https://orcid.org/0000-0002-7891-9645>)
 Maintainer: James Joseph Balamuta <balamut2@illinois.edu>
 Repository: CRAN
-Date/Publication: 2022-09-25 22:40:10 UTC
+Date/Publication: 2023-01-26 08:00:02 UTC
